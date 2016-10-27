@@ -16,4 +16,5 @@ cd proto-mesh
 bash ./setup.sh
 
 # Download GoPiGo stuff
+cd /home/pi
 git clone https://github.com/DexterInd/GoPiGo
