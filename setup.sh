@@ -15,4 +15,5 @@ git clone https://github.com/aiguy1010/proto-mesh.git
 cd proto-mesh
 bash ./setup.sh
 
-
+# Download GoPiGo stuff
+git clone https://github.com/DexterInd/GoPiGo
